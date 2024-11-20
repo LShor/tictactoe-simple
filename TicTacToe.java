@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class TicTacToe {
-    private char board[][];
+    private char board[][]; //note this is the wrong syntax for Java.
     private char player;
     private char winner;
     private boolean gameOver;
